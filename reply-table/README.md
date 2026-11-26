@@ -36,7 +36,7 @@ Not answered: P1, S1
 ## Installation
 
 1. Download this repository and zip the `reply-table` folder so that `SKILL.md` is inside it. (`SKILL.md` is the only file Claude needs; the README and tests are for humans.)
-2. In Claude, open **Settings → Capabilities → Skills** and upload the zip. (The exact menu names may differ between versions and plans; check Anthropic's current documentation on adding custom skills.)
+2. In Claude, go to **Customize > Skills**, click the **+** button, then **+ Create skill** and **Upload a skill**, and select the zip. Skills require code execution to be enabled; see [Use skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
 
 ## Usage
 

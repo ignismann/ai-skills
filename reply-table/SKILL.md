@@ -1,6 +1,6 @@
 ---
 name: reply-table
-description: Use when the user or project instructions call for a reply table: shows all questions and comment-worthy statements in an inline interactive table with input fields and a send button.
+description: Use when the user or project instructions call for a reply table. Shows all questions and comment-worthy statements in an inline interactive table with input fields and a send button.
 ---
 
 # Reply table
