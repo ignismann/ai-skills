@@ -1,0 +1,13 @@
+{
+  "name": "reply-table-skill",
+  "version": "1.0.0",
+  "description": "Claude skill that turns questions and comment-worthy statements into an interactive reply table.",
+  "private": true,
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "devDependencies": {
+    "jsdom": "^24.1.0"
+  },
+  "license": "MIT"
+}
